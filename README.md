@@ -3,10 +3,10 @@
 #  👋 Hi there!
 
 My name is Kine and I'm a Front-End Development student
-- 📚 Strudying Front-End Development at [Noroff](https://www.noroff.no/)
+- 📚 Studying Front-End Development at [Noroff](https://www.noroff.no/)
 - 🤠 From Folldal, living in Trondheim
 - 👀 I’m interested in outdoor activites, knitting, paiting, drawing, food
-- 🌱 I’m currently learning Front-end Development, extending my knowledge in JS and CSS
+- 🌱 I’m currently learning Front-end Development
 - 📫 Contact me at <kine_on@hotmail.com>
 
 ## Social Media
