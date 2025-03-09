@@ -2,11 +2,9 @@
 
 #  👋 Hi there!
 
-My name is Kine and I'm a Front-End Development student
-- 📚 Studying Front-End Development at [Noroff](https://www.noroff.no/)
+My name is Kine and I'm a Front-End Developer
 - 🤠 From Folldal, living in Trondheim
 - 👀 I’m interested in outdoor activites, knitting, paiting, drawing, food
-- 🌱 I’m currently learning Front-end Development
 - 📫 Contact me at <kine_on@hotmail.com>
 
 ## Social Media
@@ -27,6 +25,9 @@ My name is Kine and I'm a Front-End Development student
       <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" alt="bootstrap" width="50" height="40"/> </a> 
       <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="https://e7.pngegg.com/pngimages/306/37/png-clipart-node-js-logo-node-js-javascript-web-application-express-js-computer-software-others-miscellaneous-text.png" alt="node.js" width="40" height="40"/> </a> 
         <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> <img src="https://vitejs.dev/logo.svg" alt="Vite" width="40" height="40"/> </a>
+        <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://www.rapiddg.com/sites/default/files/imce-files/react.png" alt="React" width="40" height="40"/> </a> 
+        <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="TypeScript" width="40" height="40"/> </a>
+        <a href="https://tailwindcss.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1024px-Tailwind_CSS_Logo.svg.png" alt="Tailwind" width="40" height="40"/> </a>
 
 </p>
 
