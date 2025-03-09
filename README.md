@@ -31,6 +31,9 @@ My name is Kine and I'm a Front-End Developer
 
 </p>
 
+## Deployed Portfolio
+
+[Portfolio website using GitHub pages](https://kineon.no/)
 
 
 <!---
